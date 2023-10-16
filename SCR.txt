@@ -1,0 +1,11 @@
+NXP Software Content Register
+
+Release:                     StereoVision
+Version:                     0.1
+Date:                        September 2023
+Outgoing License:            BSD-3-Clause
+License File:                ./LICENSE.txt
+Type of Content:             Source code
+Description and comments:    Synchronization of two Basler cameras on i.MX8M Plus
+Release Location:            (please define)
+Origin:                      NXP (BSD-3-Clause)
