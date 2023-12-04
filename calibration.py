@@ -12,7 +12,7 @@ import textwrap
 
 
 def calibrate(left_dirpath, right_dirpath, save_dir, square_size, width, height):
-    chessboard_size = (width, height)
+    chessboard_size = (width-1, height-1)
     # Defining lists to save detected points
     obj_points_left = []
     img_points_left = []
